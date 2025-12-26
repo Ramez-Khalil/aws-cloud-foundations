@@ -23,6 +23,10 @@ A simple cloud architecture was explored consisting of:
 - Reviewed IAM users, roles, and permissions
 - Explored EC2 instance setup and lifecycle
 
+## Hands-On Experience
+- [AWS Hands-On Experience Summary](docs/hands-on-summary.md)
+This section documents practical AWS exposure gained through academic coursework and guided labs.
+
 ## Why This Project Matters
 Cloud platforms are foundational to modern business systems. This project demonstrates practical exposure to AWS services and an understanding of how cloud infrastructure supports scalability, security, and operational efficiency.
 
