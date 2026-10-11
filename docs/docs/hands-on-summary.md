@@ -1,35 +1,18 @@
-# AWS Hands-On Experience Summary
+# AWS Coursework Exposure — Evidence Status
 
-## Background
-AWS services were explored through academic coursework and guided labs. While direct console access is no longer active, this document summarizes hands-on exposure and understanding of core AWS services.
+**Training record:** AWS Academy Cloud Foundations is recorded as training in Career OS, with supporting completion proof pending. It is **not** an AWS certification.
 
-## Services Explored
+Earlier self-reported notes described use of S3, EC2, IAM, and the AWS console during guided coursework. No original cloud configuration, resource inventory, screenshots, logs, or completion records are included in this repository, so those **hands-on actions cannot be independently verified here**.
 
-### Amazon S3
-- Created and managed S3 buckets during coursework
-- Uploaded and organized objects
-- Reviewed bucket permissions and public access controls
-- Learned best practices for secure cloud storage
+## Learning topics
 
-### Amazon EC2
-- Explored the EC2 instance creation workflow
-- Reviewed instance types and pricing considerations
-- Learned basic instance lifecycle management
+- Object storage, bucket access, and the concept of blocking unintended public access (S3).
+- Virtual machines, compute sizing, and instance lifecycle (EC2).
+- Users, roles, permissions, and least privilege (IAM).
+- Cloud networking boundaries and security groups (VPC).
 
-### IAM
-- Reviewed IAM users, roles, and policies
-- Applied the principle of least privilege
-- Understood how permissions govern AWS resource access
+This file is a **learning/exposure note**, not proof that any specific AWS resource was provisioned or that production cloud systems were managed.
 
-### AWS Console Navigation
-- Navigated the AWS Management Console
-- Explored service dashboards and configuration panels
-- Reviewed monitoring and service settings
+## What would complete the evidence
 
-## Limitations
-Hands-on AWS access was provided through coursework and is no longer available. This project focuses on documenting knowledge, architecture understanding, and prior practical exposure.
-
-## Next Steps
-- Regain independent AWS console access
-- Expand hands-on documentation
-- Add diagrams and configuration examples
+A dated AWS Academy training document and approved, sanitized screenshots or configurations from any actual exercises. Until these exist, the main repository README deliberately avoids deployment and certification claims.
