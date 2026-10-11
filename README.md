@@ -1,32 +1,28 @@
-# AWS Cloud Foundations
+# AWS Cloud Foundations — Learning Notes
 
-## Overview
-This project provides an introduction to Amazon Web Services (AWS) and core cloud concepts through documentation and hands-on exploration of key services.
+**Status:** Cloud training and concepts, **not an AWS certification** or a verified deployed cloud project.
 
-The focus is on understanding how cloud infrastructure supports modern business and information systems.
+## Scope
 
-## Core AWS Services Covered
-- **EC2** – Virtual servers and compute capacity
-- **S3** – Object storage for files and data
-- **IAM** – Identity and access management
-- **VPC** – Basic networking and security concepts
+The Career OS record lists **AWS Academy Cloud Foundations as training**, with documentary proof pending. Related Cal Poly Pomona cloud infrastructure coursework is recorded. The repository currently contains conceptual notes on common AWS services and basic security ideas.
 
-## Architecture Overview
-A simple cloud architecture was explored consisting of:
-- An EC2 instance acting as a compute resource
-- An S3 bucket used for file storage
-- IAM roles and permissions to control secure access
+### Topics covered in the notes
 
-## Hands-On Activities
-- Navigated the AWS Management Console
-- Created and configured an S3 bucket
-- Reviewed IAM users, roles, and permissions
-- Explored EC2 instance setup and lifecycle
+- **EC2:** virtual compute and instance lifecycle concepts
+- **S3:** object storage and access controls
+- **IAM:** users, roles, permissions, and least privilege
+- **VPC:** networking boundaries, security groups, and connectivity
 
-## Hands-On Experience
-- [AWS Hands-On Experience Summary](docs/hands-on-summary.md)
-This section documents practical AWS exposure gained through academic coursework and guided labs.
+Read the [architecture learning notes](docs/architecture-notes.md).
 
-## Why This Project Matters
-Cloud platforms are foundational to modern business systems. This project demonstrates practical exposure to AWS services and an understanding of how cloud infrastructure supports scalability, security, and operational efficiency.
+## Evidence limits
 
+This repository does **not** contain deployed AWS resources, configuration exports, screenshots, infrastructure code, billing records, or repeatable tests. Older notes discuss hands-on activities, but those actions are **not independently substantiated by artifacts currently available**.
+
+No AWS certification is claimed, and this is not presented as a production cloud architecture.
+
+## Next improvements
+
+Add an actual dated training record or verified hands-on artifact when available. Any future example should use sanitized account IDs, policies, regions, and billing details, and should distinguish planned exercises from those completed.
+
+**Source:** Career OS Career Master Profile and Verified Skills (October 4, 2026).
